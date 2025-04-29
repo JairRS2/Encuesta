@@ -57,7 +57,7 @@ export class PurchaseEaseSurveyComponent {
     this.selectedEase = value;
     this.attemptSubmit();
   }
-
+//cambios
   onPlatformChange(value: string) {
     this.selectedPlatform = value;
     this.attemptSubmit();
